@@ -1,19 +1,12 @@
 # Modelo de espaço vetorial para trace clustering utilizando Doc2Vec
 
-## Libs e depências
+## Libs e dependências
 pandas
 pm4py
 nltk
-sklearn 
+sklearn
 pandas
 gensim
-from gensim.models.doc2vec import Doc2Vec, TaggedDocument
-from sklearn.preprocessing import Binarizer
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import PCA
-from sklearn.cluster import DBSCAN
-
 
 ## Este repositório contém todo o código utilizado no trabalho 
 ## Antes de executar os notebooks você deve descompactar os arquivos de logs que estão no diretório 'logs':
