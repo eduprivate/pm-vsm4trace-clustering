@@ -27,3 +27,5 @@ gensim
     - experiments_results_analysis.ipynb
 
 ## Diretório results guarda dados e planilhas resultado dos experimentos
+
+## Diretório figures guarda as imagens utilizadas no trabalho
